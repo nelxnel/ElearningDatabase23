@@ -4,9 +4,9 @@ ElearningDatabase Code
 
 
 ## **The problem:**
-As a tertiary educator, I've built up a large collection of teaching resources over the years, and have been storing and sharing them via a Pinterest board, which was clunky to search and didn't allow me to add categories. 
+<p>As a tertiary educator, I've built up a large collection of teaching resources over the years, and have been storing and sharing them via a Pinterest board, which was clunky to search and didn't allow me to add categories. 
 I couldn't find a site that did what I needed - a simple, searchable database that utilised resource categories or tags - so I built one.
-The purpose of the project was to act as a database for these resources, in order to ease the access and increase sharability of information and research on particular subjects or categories of teaching and elearning.  
+The purpose of the project was to act as a database for these resources, in order to ease the access and increase sharability of information and research on particular subjects or categories of teaching and elearning.</p>  
 
 
 ## **Target Audience:**
