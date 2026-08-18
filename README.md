@@ -14,8 +14,9 @@ The motivation for this project was my frustration at finding one site or databa
 
 I created the Use Cases based on my personal knowledge and experience related to teaching and user experience. I initially wanted to improve on the limitations from the first version of the app, focusing on improving the search functionality, getting images attached to the resources, and hosting it online.  
 
-<br /> <br />
- 
+<p> </p>
+
+
 ## **My role:**
 This was a self-sponsored project, meaning I was the solo developer and designer. However, I was intentionally incorporating my knowledge of previous tertiary institutions’ stakeholders, processes and experiences of sharing resources with other tutors in order to align it with industry.
 
