@@ -4,8 +4,8 @@ ElearningDatabase Code
 
 
 ## **The problem:**
-<p>As a tertiary educator, I've built up a large collection of teaching resources over the years, and have been storing and sharing them via a Pinterest board, which was clunky to search and didn't allow me to add categories. <br />
-I couldn't find a site that did what I needed - a simple, searchable database that utilised resource categories or tags - so I built one.
+<p>As a tertiary educator, I've built up a large collection of teaching resources over the years, and have been storing and sharing them via a Pinterest board, which was clunky to search and didn't allow me to add categories.
+I couldn't find a site that did what I needed - a simple, searchable database that utilised resource categories or tags - so I built one. <br /> <br />
 The purpose of the project was to act as a database for these resources, in order to ease the access and increase sharability of information and research on particular subjects or categories of teaching and elearning.</p>  
 
 
@@ -22,7 +22,7 @@ This was a self-sponsored project, meaning I was the solo developer and designer
 
 
 ## **The Solution:**
-A multi-page CRUD application that lets users submit, search, browse by category, and manage teaching resources. Initially, I thought I would be able to add further functionality onto the first EJS project in the second course, however we were required to use React for it. The first MVP was written in EJS and MySQL, and then redeveloped in React and Firebase, so the final app was a result of the two courses. 
+A multi-page CRUD application that lets users submit, search, browse by category, and manage teaching resources. Initially, I thought I would be able to add further functionality onto the first EJS project in the second course, however we were required to use React for it. The first MVP was written in EJS and MySQL, and then redeveloped in React and Firebase, so the final app was a result of the two courses.  <br />
 
 **Final app tech stack:** React, HTML, CSS, Reactstrap, Firebase/Firestore, Node.js, GitHub
 
