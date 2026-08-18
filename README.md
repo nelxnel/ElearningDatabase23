@@ -6,13 +6,13 @@ ElearningDatabase Code
 ## **The problem:**
 As a tertiary educator, I've built up a large collection of teaching resources over the years, and have been storing and sharing them via a Pinterest board, which was clunky to search and didn't allow me to add categories. 
 I couldn't find a site that did what I needed - a simple, searchable database that utilised resource categories or tags - so I built one.
-The purpose of the project was to act as a database for these resources, in order to ease the access and increase sharability of information and research on particular subjects or categories of teaching and elearning.<br /> \
+The purpose of the project was to act as a database for these resources, in order to ease the access and increase sharability of information and research on particular subjects or categories of teaching and elearning.  
 
 
 ## **Target Audience:**
 The motivation for this project was my frustration at finding one site or database with a lot of good teaching resources, and seeing no simple way to share these with others. I was using Pinterest myself, but it was not a very user-friendly way of organising them.
 
-I created the Use Cases based on my personal knowledge and experience related to teaching and user experience. I initially wanted to improve on the limitations from the first version of the app, focusing on improving the search functionality, getting images attached to the resources, and hosting it online.
+I created the Use Cases based on my personal knowledge and experience related to teaching and user experience. I initially wanted to improve on the limitations from the first version of the app, focusing on improving the search functionality, getting images attached to the resources, and hosting it online.  
 
 
 ## **My role:**
