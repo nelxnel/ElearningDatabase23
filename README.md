@@ -9,6 +9,7 @@ I couldn't find a site that did what I needed - a simple, searchable database th
 The purpose of the project was to act as a database for these resources, in order to ease the access and increase sharability of information and research on particular subjects or categories of teaching and elearning.</p>  
 
 
+
 ## **Target Audience:**
 The motivation for this project was my frustration at finding one site or database with a lot of good teaching resources, and seeing no simple way to share these with others. I was using Pinterest myself, but it was not a very user-friendly way of organising them. <br />
 
