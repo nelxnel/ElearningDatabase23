@@ -25,7 +25,9 @@ This was a self-sponsored project, meaning I was the solo developer and designer
 ## **The Solution:**
 A multi-page CRUD application that lets users submit, search, browse by category, and manage teaching resources. Initially, I thought I would be able to add further functionality onto the first EJS project in the second course, however we were required to use React for it. The first MVP was written in EJS and MySQL, and then redeveloped in React and Firebase, so the final app was a result of the two courses.  <br />
 
-**Final app tech stack:** React, HTML, CSS, Reactstrap, Firebase/Firestore, Node.js, GitHub
+**Final app tech stack:** React, HTML, CSS, Reactstrap, Firebase/Firestore, Node.js, GitHub 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 
 ## **The process:**
